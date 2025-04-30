@@ -1,0 +1,14 @@
+# Compiled files
+/out/
+*.class
+
+# NetBeans project files
+nbproject/
+build/
+dist/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+notes.txt
