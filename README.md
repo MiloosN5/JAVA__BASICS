@@ -7,6 +7,7 @@ Demonstration of various examples related to different topics/areas in Java.
 Choose an appropriate branch name that corresponds to the lesson title:
    1. Class
    2. Inheritance
+   3. Interface
 
 
 ## Working locally
