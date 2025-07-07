@@ -49,6 +49,6 @@ This will compile everything to target/classes.
 
 - Run the project
 ```
-mvn exec:java -Dexec.mainClass="basics.Main"
+mvn exec:java -Dexec.mainClass="Main"
 ```
 
