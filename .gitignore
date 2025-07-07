@@ -1,0 +1,42 @@
+# ========================
+# Maven build output
+# ========================
+/target/
+
+# ========================
+# NetBeans project files
+# ========================
+nbproject
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+
+# ========================
+# IDE specifično (opciono)
+# ========================
+*.swp
+*~
+*.bak
+*.tmp
+
+# ========================
+# OS specifično (opciono)
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Java binaries
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+
+# ========================
+# Additional
+# ========================
+notes.txt
