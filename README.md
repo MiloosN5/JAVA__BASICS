@@ -9,6 +9,7 @@ Select a lesson from the list and leave only that one uncommented in ```src/main
    2. Inheritance (*InheritanceExample*)
    3. Interface (*ClassImpInterfaceExample*)
    4. Primitive data types (*DataTypesPrimitive*)
+   5. Reference data types (*DataTypesReference*)
 
 ## Working locally
 
