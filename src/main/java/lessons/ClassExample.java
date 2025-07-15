@@ -21,5 +21,4 @@ public class ClassExample {
         bike.speedUp(15);
         bike.printStates(); // cadence:5 speed:27 gear:1
     }
-
 }
