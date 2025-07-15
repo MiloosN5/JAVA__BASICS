@@ -2,6 +2,7 @@
 import lessons.ClassExample;
 import lessons.ClassImpInterfaceExample;
 import lessons.DataTypesPrimitive;
+import lessons.DataTypesReference;
 import lessons.InheritanceExample;
 
 /*
@@ -19,5 +20,6 @@ public class Main {
         InheritanceExample.run(); // 2. lesson
         ClassImpInterfaceExample.run(); // 3. lesson
         DataTypesPrimitive.run(); // 4. lesson
+        DataTypesReference.run(); // 5. lesson
     }
 }
