@@ -5,9 +5,10 @@ Demonstration of various examples related to different topics/areas in Java.
 ## Lessons
 
 Select a lesson from the list and leave only that one uncommented in ```src/main/java/Main.java```:
-   1. Class
-   2. Inheritance
-   3. Interface
+   1. Class (*ClassExample*)
+   2. Inheritance (*InheritanceExample*)
+   3. Interface (*ClassImpInterfaceExample*)
+   4. Primitive data types (*DataTypesPrimitive*)
 
 ## Working locally
 
