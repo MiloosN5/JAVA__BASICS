@@ -10,7 +10,7 @@ import references.classes.Bicycle;
  *
  * @author PC
  */
-public class InheritanceExample extends ClassExample {
+public class InheritanceExample {
 
     static class MountainBike extends Bicycle {
 

@@ -1,6 +1,6 @@
 
 import lessons.ClassExample;
-import lessons.ClassImplInterface;
+import lessons.ClassImpInterfaceExample;
 import lessons.DataTypesPrimitive;
 import lessons.InheritanceExample;
 
@@ -15,9 +15,9 @@ import lessons.InheritanceExample;
 public class Main {
 
     public static void main(String[] args) {
-        ClassExample.run();
-        InheritanceExample.run();
-        ClassImplInterface.run();
-        DataTypesPrimitive.run();
+        ClassExample.run(); // 1. lesson
+        InheritanceExample.run(); // 2. lesson
+        ClassImpInterfaceExample.run(); // 3. lesson
+        DataTypesPrimitive.run(); // 4. lesson
     }
 }

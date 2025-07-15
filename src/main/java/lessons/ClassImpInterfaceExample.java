@@ -10,7 +10,7 @@ import references.interfaces.Vehicle;
  *
  * @author PC
  */
-public class ClassImplInterface {
+public class ClassImpInterfaceExample {
 
     static class Car implements Vehicle {
 
