@@ -5,7 +5,7 @@ Demonstration of various examples related to different topics/areas in Java.
 ## Lessons
 
 Select a lesson from the list and leave only that one uncommented in ```src/main/java/Main.java```:
-   1. OOP (*OOP**)
+   1. OOP (*OOP*)
    2. Primitive data types (*DataTypesPrimitive*)
    3. Reference data types (*DataTypesReference*)
 
@@ -51,5 +51,6 @@ This will compile everything to target/classes.
 ```
 mvn exec:java -Dexec.mainClass="Main"
 ```
+
 
 
